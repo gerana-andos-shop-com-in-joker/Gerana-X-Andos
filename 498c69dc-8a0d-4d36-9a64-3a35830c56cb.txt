@@ -1,0 +1,20 @@
+{
+  "name": "ANDOS - Your Digital Space",
+  "short_name": "ANDOS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "assets/andos-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/andos-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
